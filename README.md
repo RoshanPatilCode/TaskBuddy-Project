@@ -1,7 +1,6 @@
 🚀 TaskBuddy is a powerful task management app built using ReactJS. It helps users manage daily tasks with ease — add, update, delete, track progress, and clear all tasks with just one click!
 
 * Features :
-
 . Add Tasks: Users can add new tasks to the list.
 . Update Tasks: Users can edit the details of existing tasks.
 . Delete Tasks: Users can remove tasks from the list.
