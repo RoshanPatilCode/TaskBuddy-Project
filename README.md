@@ -14,8 +14,5 @@
 . Clearing All Tasks: Click the "Clear All Tasks" button to remove all tasks.
 . Progress Tracker: View the progress of your tasks in the progress tracker.
 
-  
 
-
-
-<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/39eaef72-b593-420b-bc8d-2272659a84ae" />
+<img width="1920" height="908" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/445aab9e-ba4f-421b-92c5-46e10652b280" />
